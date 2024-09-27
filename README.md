@@ -1,5 +1,5 @@
 # About me
-I use this GitHub page to show some of my personal work that I did in my free time over the years.
+I use this GitHub page to show some of my personal work that I did in my free time over the years. It will take some time to add all of it so the page continuelsy updates.
 
 ## Hey! 👋
 I'm Matej, a 20 years old student from Slovakia. I show interest in electronics since I was 14.
